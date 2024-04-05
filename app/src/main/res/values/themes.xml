@@ -40,5 +40,10 @@
         <item name="android:background">@drawable/shape3</item>
     </style>
 
+    <style name="MyToolbarTheme" parent="Widget.AppCompat.Toolbar">
+        <!-- Cambia el color del texto del título -->
+        <item name="android:titleTextColor">@color/orange</item>
+    </style>
+
 
 </resources>
